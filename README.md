@@ -18,7 +18,7 @@ A RESTful API built with Node.js, Express, Prisma, and MySQL with JWT authentica
 ```bash
 npm install
 ```
-3. Create a `.env` file based on `.env.example` with your configuration
+3. Create a `.env` file based on your configuration
 4. Set up the database:
 ```bash
 npm run migrate
